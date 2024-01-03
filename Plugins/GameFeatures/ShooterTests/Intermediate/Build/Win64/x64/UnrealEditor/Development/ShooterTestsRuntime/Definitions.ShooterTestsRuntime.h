@@ -1,4 +1,4 @@
-#include "E:/3d Fun/LyraStarterGame/Intermediate/Build/Win64/x64/LyraEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
+#include "../Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
@@ -13,7 +13,7 @@
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_1 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_2 0
 #define UE_ENABLE_INCLUDE_ORDER_DEPRECATED_IN_5_3 0
-#define UE_PROJECT_NAME LyraStarterGame
+#define UE_PROJECT_NAME Lunapella
 #define UE_TARGET_NAME LyraEditor
 #define UE_MODULE_NAME "ShooterTestsRuntime"
 #define UE_PLUGIN_NAME "ShooterTests"
