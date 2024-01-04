@@ -76,3 +76,5 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Plugins/GameFeatures/ShooterCore/Intermediate/Build/Win64/UnrealEditor/Inc/ShooterCoreRuntime/UHT/Timestamp
+Plugins/GameFeatures/TopDownArena/Intermediate/Build/Win64/UnrealEditor/Inc/TopDownArenaRuntime/UHT/Timestamp
